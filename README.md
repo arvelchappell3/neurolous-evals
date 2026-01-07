@@ -468,9 +468,9 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-- **Research Inquiries**: research@neurolous.com
+- **Research Inquiries**: hello@neurolous.com
 - **Technical Support**: Open an issue on GitHub
-- **Partnership Opportunities**: partnerships@neurolous.com
+- **Partnership Opportunities**: hello@neurolous.com
 
 ---
 
