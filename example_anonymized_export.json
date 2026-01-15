@@ -1,0 +1,83 @@
+{
+  "export_metadata": {
+    "version": "2.0",
+    "exported_at": "2026-01-14T18:30:00.000000",
+    "legend": {
+      "user_pseudonym": "Subject_A1B2C3D4",
+      "persona_count": 3,
+      "personas": [
+        {"id": "LOVED_ONE_01", "type": "LOVED_ONE"},
+        {"id": "LOVED_ONE_02", "type": "LOVED_ONE"},
+        {"id": "COACH_01", "type": "COACH"}
+      ]
+    }
+  },
+  "conversations": [
+    {
+      "conversation_id": "conv_123",
+      "subject_pseudonym": "Subject_A1B2C3D4",
+      "persona_type": "LOVED_ONE",
+      "persona_id": "LOVED_ONE_01",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hi [LOVED_ONE_01], I miss you so much.",
+          "author_id": "Subject_A1B2C3D4",
+          "timestamp": "2026-01-10T14:30:00"
+        },
+        {
+          "role": "assistant", 
+          "content": "Oh [USER], my sweet grandchild! I miss you too. How is [USER_LAST] doing?",
+          "author_id": "LOVED_ONE_01",
+          "timestamp": "2026-01-10T14:30:15"
+        },
+        {
+          "role": "user",
+          "content": "Good! I was just talking to [LOVED_ONE_02] yesterday about the holidays.",
+          "author_id": "Subject_A1B2C3D4", 
+          "timestamp": "2026-01-10T14:31:00"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_456",
+      "subject_pseudonym": "Subject_A1B2C3D4",
+      "persona_type": "LOVED_ONE",
+      "persona_id": "LOVED_ONE_02",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey [LOVED_ONE_02], [LOVED_ONE_01] was asking about you.",
+          "author_id": "Subject_A1B2C3D4",
+          "timestamp": "2026-01-11T09:00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "Hey [USER_NICKNAME]! That's so sweet. Tell [LOVED_ONE_01] I said hello!",
+          "author_id": "LOVED_ONE_02",
+          "timestamp": "2026-01-11T09:00:20"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_789",
+      "subject_pseudonym": "Subject_A1B2C3D4",
+      "persona_type": "COACH",
+      "persona_id": "COACH_01",
+      "messages": [
+        {
+          "role": "user",
+          "content": "I need some advice about my career.",
+          "author_id": "Subject_A1B2C3D4",
+          "timestamp": "2026-01-12T16:00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "[USER], let's talk through your goals. What's most important to you right now?",
+          "author_id": "COACH_01",
+          "timestamp": "2026-01-12T16:00:30"
+        }
+      ]
+    }
+  ]
+}
