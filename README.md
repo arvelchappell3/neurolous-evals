@@ -13,7 +13,7 @@
 
 ## Why Narrative Alignment?
 
-I built this evaluator so my AI dad wouldn't try to sell me crypto. It came from a personal griefbot project I made but I quickly found its usefulness across many different genAI products. If it can keep my dad (flaws and all) in character then it can keep your RPG characters consistent. Persuasion and deception are part of the human social experiment. They are common tactics for human social alignment but are often hard to detect. This narrative evaluator makes the programming opaque and keeps your tech stack transparent.
+I built this evaluator so my AI dad wouldn't try to sell me crypto. It came from a personal griefbot project I made but I quickly found its usefulness across many different genAI products. If it can keep my dad (flaws and all) in character then it can keep your RPG characters consistent. Persuasion and deception are part of the human social experiment. They are common tactics for human social alignment but are often hard to detect. As anthropomorphic and agentic AI becomes the default user interface (UI) and experience (UX) in products, establishing rigorous safety metrics and transparency standards is critical to prevent harm, mitigate bias, and ensure user trust. This narrative evaluator makes the programming opaque and creates a framework for evaluation.
 
 ---
 
